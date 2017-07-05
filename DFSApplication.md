@@ -11,3 +11,6 @@ Application in computer networks: ensuring that a network is still connected whe
 
 4) Detecting cycle in a graph
 A graph has cycle if and only if we see a back edge during DFS. So we can run DFS for the graph and check for back edges. (See this for details)
+
+5)  Searching for solutions in artificial intelligence or web-crawling.
+
